@@ -1,3 +1,3 @@
 # App Academy Homework
 
-The main depository is in the JohnHiro84/AppAcademy directory.
+The main depository for App Academy homework.
